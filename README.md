@@ -1,6 +1,8 @@
 
-# Ex.No:7 Develop a simple calculator using android studio.
-
+### Ex.No:07 
+### DATE: 
+# <p align="center">Develop a simple calculator using android studio</p>
+ 
 ## AIM:
 
 To develop a program to develop a simple calculator in Android Studio.
@@ -32,6 +34,12 @@ Program to print the text “calculator operation”.<br>
 Developed by: Kumaravel.V<br>
 Registeration Number : 212220230027
 */
+
+<br>
+<br>
+
+<br>
+
 ## activity_main.xml
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
